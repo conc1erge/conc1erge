@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [KYBIFighter](https://github.com/conc1erge/KYBIFighter)
 
-- 🌱 I’m looking for help with learning **Kotlin & Java**
+- 🌱 I’m looking for help with learning **Java**
 
 - 👯 I’m apart of [Equinox, a OneShot mod](https://github.com/tehawesomestkit/equinox)
 
-- 🤝 I’m helping out with the [Funnybu SMP](https://github.com/conc1erge/funnybu-smp/releases/tag/1.19.2)
+- 🤝 I’m experimenting with the [MIDI Fighter 64](https://github.com/wunnation/MIDI-Fighter-64)
 
 - 💬 Heavily invested in **Launchpads, MIDI Fighters, competitive games and rhythm games**
 
