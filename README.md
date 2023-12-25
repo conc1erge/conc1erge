@@ -5,7 +5,7 @@
 
 - 🌱 I’m looking for help with learning **Java**
 
-- 👯 I’m apart of [Equinox, a OneShot mod](https://github.com/tehawesomestkit/equinox)
+- 👯 I’m apart of [Cheatbreaker, a Minecraft PvP client](https://github.com/CheatBreakerNet)'s testing group.
 
 - 🤝 I’m experimenting with the [MIDI Fighter 64](https://github.com/wunnation/MIDI-Fighter-64)
 
