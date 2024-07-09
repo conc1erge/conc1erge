@@ -1,7 +1,8 @@
 <h1 align="center">hi 👋, I'm conc1erge</h1>
 <h3 align="center">a lazy, newbie, hobbyist developer</h3>
+<h5 align="center">now active!</h5>
 
-- 🔭 I’m currently working on [KYBIFighter](https://github.com/conc1erge/KYBIFighter)
+- 🔭 I’m currently working on [my own portfolio/info site](https://github.com/conc1erge/conc1erge,github.io)
 
 - 🌱 I’m looking for help with learning **Java**
 
