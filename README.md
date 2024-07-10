@@ -2,7 +2,7 @@
 <h3 align="center">a lazy, newbie, hobbyist developer</h3>
 <h5 align="center">now active!</h5>
 
-- 🔭 I’m currently working on [my own portfolio/info site](https://github.com/conc1erge/conc1erge,github.io)
+- 🔭 I’m currently working on [my own portfolio/info site](https://github.com/conc1erge/sitec1erge)
 
 - 🌱 I’m looking for help with learning **Java**
 
@@ -12,7 +12,7 @@
 
 - 💬 Heavily invested in **Launchpads, MIDI Fighters, competitive games and rhythm games**
 
-- 📫 More socials in **linktr.ee/conc1erge**
+- 📫 More socials at **conc1erge.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
